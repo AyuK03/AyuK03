@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Blockchain, React, React Native, Nodejs, MongoDB**
 
-- ☁️ I've keen interest in blockchain and machine learning with a pinch of Web Development.
+- 🤖 I've keen interest in Artificial Intelligence, Machine Learning and Blockchain along with Web Development.
 
 <!-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)-->
 
